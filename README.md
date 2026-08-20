@@ -5,7 +5,7 @@ A structured summary of the main Database Fundamentals concepts, including Datab
 ---
 
 
-# 🔴 1. Database Lifecycle
+# 🔴 1... Database Lifecycle
 
 The Database Lifecycle consists of several stages involving different roles:
 
